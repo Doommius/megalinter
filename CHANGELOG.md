@@ -162,6 +162,16 @@ Note: Can be used with `oxsecurity/megalinter@beta` in your GitHub Action mega-l
   - [checkov](https://www.checkov.io/) from 2.3.206 to **2.3.212** on 2023-04-30
   - [syft](https://github.com/anchore/syft) from 0.76.1 to **0.79.0** on 2023-04-30
   - [jscpd](https://github.com/kucherenko/jscpd/tree/master/packages/jscpd) from 3.5.5 to **3.5.8** on 2023-05-02
+  - [jscpd](https://github.com/kucherenko/jscpd/tree/master/packages/jscpd) from 3.5.8 to **3.5.9** on 2023-05-03
+  - [stylelint](https://stylelint.io) from 15.6.0 to **15.6.1** on 2023-05-03
+  - [v8r](https://github.com/chris48s/v8r) from 1.0.0 to **2.0.0** on 2023-05-03
+  - [psalm](https://psalm.dev) from Psalm.5.9.0@ to **Psalm.5.10.0@** on 2023-05-03
+  - [ruff](https://github.com/charliermarsh/ruff) from 0.0.263 to **0.0.264** on 2023-05-03
+  - [checkov](https://www.checkov.io/) from 2.3.212 to **2.3.214** on 2023-05-03
+  - [sfdx-scanner-apex](https://forcedotcom.github.io/sfdx-scanner/) from 3.11.0 to **3.12.0** on 2023-05-03
+  - [sfdx-scanner-aura](https://forcedotcom.github.io/sfdx-scanner/) from 3.11.0 to **3.12.0** on 2023-05-03
+  - [sfdx-scanner-lwc](https://forcedotcom.github.io/sfdx-scanner/) from 3.11.0 to **3.12.0** on 2023-05-03
+  - [terragrunt](https://terragrunt.gruntwork.io) from 0.45.6 to **0.45.8** on 2023-05-03
 <!-- linter-versions-end -->
 
 ## [v6.22.2] - 2023-04-03
